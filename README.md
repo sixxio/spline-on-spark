@@ -1,11 +1,11 @@
 # PySpark job with Spline Tracking
 
-### Repo structure:  
+### Repo structure:    
 |  
-|- entrypoint.py   #  main func
-|- dq.py           #  dq checks
-|- etl.py          #  loading, joining and dumping
-|- udf.pu          #  udf funcs
+|- entrypoint.py   #  main func  
+|- dq.py           #  dq checks  
+|- etl.py          #  loading, joining and dumping  
+|- udf.pu          #  udf funcs  
 
 
 ### Make sure you have env vars:
